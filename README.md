@@ -19,15 +19,22 @@ This interactive Excel Dashboard visualizes key sales and customer insights for 
 
 # Insights Derived
 -> High Sales on Mondays – Can be leveraged for special Monday promotions.
+
 -> Morning Peak Orders – Bulk of orders between 8 AM - 10 AM, indicating a strong breakfast rush.
+
 -> Barista Espresso is the Best Seller – Leading revenue generator, indicating high demand.
+
 -> Astoria & Hell’s Kitchen Locations Perform Best – Lower Manhattan lags in footfall.
+
 -> Regular & Large Product Sizes are Most Popular – Small sizes are less preferred.
 
 # Business Applications
 -> Strategic Pricing & Promotions – Discounts on slower days, premium pricing during peak hours.
+
 -> Stock Optimization – Ensure high-demand products are always available.
+
 -> Operational Efficiency – Allocate staff based on peak footfall hours.
+
 -> Marketing Campaigns – Promote best-selling items and focus on slow-moving products.
 
 
