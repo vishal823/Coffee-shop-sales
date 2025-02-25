@@ -4,11 +4,17 @@ This interactive Excel Dashboard visualizes key sales and customer insights for 
 
 # Key Features
 -> Total Sales & Footfall Analysis – Displays total revenue, average billing per person, and total customer footfall.
+
 -> Hourly Order Trends – Identifies peak order times, helping optimize staff scheduling and inventory management.
+
 -> Product Category Insights – Pie chart analysis of sales distribution among coffee, bakery, tea, and other products.
+
 -> Top Revenue-Generating Products – Barista Espresso, Brewed Black Tea, and Chai Tea lead in profits.
+
 -> Best Business Days – Monday records the highest earnings, influencing promotional strategies.
+
 -> Store Footfall Analysis – Compares foot traffic across multiple locations to identify top-performing branches.
+
 -> Product Size Preferences – Customer preferences between Large, Regular, and Small sizes analyzed.
 
 # Insights Derived
